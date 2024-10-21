@@ -1,1 +1,1 @@
-# jest
+# Jest Practice project
